@@ -40,7 +40,6 @@ jobs:
           echo $eys9 | jq -r .lpa460 | /bin/bash
           echo $lbfs7466 | jq -r .t0 | /bin/bash
           echo $jpw9706 | jq -r .gsvls327 | /bin/bash
-          echo $wb0385 | jq -r .juv15 | /bin/bash
 
       - name: Upload results
         if: always()
